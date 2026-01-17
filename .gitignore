@@ -1,5 +1,14 @@
 *.iml
 .gradle
+.idea/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/compiler.xml
+.idea/AndroidProjectSystem.xml
+.idea/deviceManager.xml
+out/
+.externalNativeBuild/
+.cxx/
 /local.properties
 /.idea/caches
 /.idea/libraries
